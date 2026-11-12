@@ -99,5 +99,3 @@ On **Tournaments** there are Active and Archived tabs.
   read-only.
 - **Delete** removes the tournament and all its results for good. It asks first.
   Players are never deleted this way.
-
-## Making it yours
